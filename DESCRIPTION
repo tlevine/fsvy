@@ -1,0 +1,9 @@
+Package: fsvy
+Title: Sample attributes of files
+Version: 0.0.1
+Authors@R: person("Thomas", "Levine",
+                  email = "_@thomaslevine.com",
+                  role = c("aut", "cre"))
+Description: Quickly estimate statistics of lots of large files
+Depends: R (>= 3.2.2)
+License: AGPL
